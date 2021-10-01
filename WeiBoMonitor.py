@@ -105,7 +105,7 @@ if __name__ == "__main__":
                 f.write(new_id)
         else:
             pass
-        time.sleep(300)
+        time.sleep(30)
 
 
 
