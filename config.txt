@@ -1,3 +1,3 @@
-send_mail:1346430584@qq.com
+send_mail:XXXXXXXXX@qq.com
 license:dkjybagiewariebh
-rece_mail:
+rece_mail:1346430584@qq.com
