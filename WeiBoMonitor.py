@@ -91,7 +91,7 @@ def wei_bo(headers, monitor_usr):
 if __name__ == "__main__":
     cookie = info_cookie()# type:dict
     config = info_mail()  # type:dict
-    monitor_url = "http://weibo.com/u/3598664147"   # 监控微博Host URL
+    monitor_url = "https://m.weibo.cn/profile/6023641349"   # 监控微博Host URL
     while True:
         with open("new_id.txt", "r+") as f:
             old_id = f.read()
